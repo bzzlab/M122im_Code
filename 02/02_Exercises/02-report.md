@@ -4,8 +4,8 @@ Sie haben in der Aufgabe 1 ein Bash-Script programmiert, welches
 aufgrund eines vorgegebenen Inputs einen Report erstellt.
 
 #### Aufgabenstellung
-1. Passen Sie Ihr Bash-Script soweit an, so dass Funktionen verwendet werden,
-z.B. wiefolgt
+1. Passen Sie Ihr Bash-Script soweit an, sodass Funktionen verwendet werden,
+z.B. wie folgt
 ```
 function report(){
 #??
